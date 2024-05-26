@@ -1,0 +1,24 @@
+.grid{
+  display:grid;
+  grid-template-columns: 100px 100px 100px;
+  column-gap: 5px;
+  row-gap: 5px;
+  background-color:yellow;
+  position: center;
+  justify-content: center;
+  width: 500px;
+  height:350px;
+  margin: 25%;
+  margin-left: 35%;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-top: 0%;
+  margin-left: 0%;
+  border-radius: 10px;
+}
+button{
+border-radius: 10px;
+border: none;
+background-color: rgb(66, 65, 65);
+color: aliceblue;
+}
